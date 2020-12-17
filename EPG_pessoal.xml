@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="PT: RTP 1">
+    <display-name lang="pt">PT: RTP 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT: RTP 2">
+    <display-name lang="pt">PT: RTP 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT: SIC">
+    <display-name lang="pt">PT: SIC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT: TVI">
+    <display-name lang="pt">PT: TVI</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20201217002700 +0000" stop="20201217011800 +0000" channel="PT: RTP 1">
+    <title lang="pt">Terras Extremas</title>
+  </programme>
+  <programme start="20201217011800 +0000" stop="20201217021700 +0000" channel="PT: RTP 1">
+    <title lang="pt">Grande Entrevista</title>
+  </programme>
+  <programme start="20201217021700 +0000" stop="20201217025900 +0000" channel="PT: RTP 1">
+    <title lang="pt">O Sábio</title>
+  </programme>
+  <programme start="20201217025900 +0000" stop="20201217032900 +0000" channel="PT: RTP 1">
+    <title lang="pt">As Novas Viagens Philosophicas</title>
+  </programme>
+  <programme start="20201217032900 +0000" stop="20201217055900 +0000" channel="PT: RTP 1">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20201217055900 +0000" stop="20201217063000 +0000" channel="PT: RTP 1">
+    <title lang="pt">Manchetes 3</title>
+  </programme>
+  <programme start="20201217063000 +0000" stop="20201217100000 +0000" channel="PT: RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
+  </programme>
+  <programme start="20201217100000 +0000" stop="20201217130000 +0000" channel="PT: RTP 1">
+    <title lang="pt">Praça da Alegria</title>
+  </programme>
+  <programme start="20201217130000 +0000" stop="20201217142500 +0000" channel="PT: RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20201217142500 +0000" stop="20201217150500 +0000" channel="PT: RTP 1">
+    <title lang="pt">Miúdo Graúdo</title>
+  </programme>
+  <programme start="20201217150500 +0000" stop="20201217173000 +0000" channel="PT: RTP 1">
+    <title lang="pt">A Nossa Tarde</title>
+  </programme>
+  <programme start="20201217173000 +0000" stop="20201217190800 +0000" channel="PT: RTP 1">
+    <title lang="pt">Portugal em Direto</title>
+  </programme>
+  <programme start="20201217190800 +0000" stop="20201217195900 +0000" channel="PT: RTP 1">
+    <title lang="pt">O Preço Certo</title>
+  </programme>
+  <programme start="20201217195900 +0000" stop="20201217210000 +0000" channel="PT: RTP 1">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20201217210000 +0000" stop="20201217213000 +0000" channel="PT: RTP 1">
+    <title lang="pt">Presidenciais 2021 - Entrevistas</title>
+  </programme>
+  <programme start="20201217213000 +0000" stop="20201217223700 +0000" channel="PT: RTP 1">
+    <title lang="pt">Joker - Kids</title>
+  </programme>
+  <programme start="20201217223700 +0000" stop="20201218003800 +0000" channel="PT: RTP 1">
+    <title lang="pt">5 Para a Meia-Noite</title>
+  </programme>
+  <programme start="20201217000600 +0000" stop="20201217014500 +0000" channel="PT: RTP 2">
+    <title lang="pt">Muito Barulho Para Nada</title>
+  </programme>
+  <programme start="20201217014500 +0000" stop="20201217024800 +0000" channel="PT: RTP 2">
+    <title lang="pt">Sociedade Civil</title>
+  </programme>
+  <programme start="20201217024800 +0000" stop="20201217050100 +0000" channel="PT: RTP 2">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20201217050100 +0000" stop="20201217054500 +0000" channel="PT: RTP 2">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20201217054500 +0000" stop="20201217063200 +0000" channel="PT: RTP 2">
+    <title lang="pt">Lusitana Paixão</title>
+  </programme>
+  <programme start="20201217063200 +0000" stop="20201217070200 +0000" channel="PT: RTP 2">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+  </programme>
+  <programme start="20201217070200 +0000" stop="20201217071100 +0000" channel="PT: RTP 2">
+    <title lang="pt">Lucas e Emília</title>
+  </programme>
+  <programme start="20201217071100 +0000" stop="20201217072000 +0000" channel="PT: RTP 2">
+    <title lang="pt">Lucas e Emília</title>
+  </programme>
+  <programme start="20201217072000 +0000" stop="20201217072700 +0000" channel="PT: RTP 2">
+    <title lang="pt">Rato Renato</title>
+  </programme>
+  <programme start="20201217072700 +0000" stop="20201217075100 +0000" channel="PT: RTP 2">
+    <title lang="pt">Zafari</title>
+  </programme>
+  <programme start="20201217075100 +0000" stop="20201217075800 +0000" channel="PT: RTP 2">
+    <title lang="pt">As Aventuras da Miffy</title>
+  </programme>
+  <programme start="20201217075800 +0000" stop="20201217080300 +0000" channel="PT: RTP 2">
+    <title lang="pt">Kiwi</title>
+  </programme>
+  <programme start="20201217080300 +0000" stop="20201217080800 +0000" channel="PT: RTP 2">
+    <title lang="pt">Kiwi</title>
+  </programme>
+  <programme start="20201217080800 +0000" stop="20201217081800 +0000" channel="PT: RTP 2">
+    <title lang="pt">Kody Kapow</title>
+  </programme>
+  <programme start="20201217081800 +0000" stop="20201217082300 +0000" channel="PT: RTP 2">
+    <title lang="pt">A Grande Descoberta</title>
+  </programme>
+  <programme start="20201217082300 +0000" stop="20201217083000 +0000" channel="PT: RTP 2">
+    <title lang="pt">Inui</title>
+  </programme>
+  <programme start="20201217083000 +0000" stop="20201217084400 +0000" channel="PT: RTP 2">
+    <title lang="pt">Twirlywoos</title>
+  </programme>
+  <programme start="20201217084400 +0000" stop="20201217085500 +0000" channel="PT: RTP 2">
+    <title lang="pt">Vivi Vira Vento</title>
+  </programme>
+  <programme start="20201217085500 +0000" stop="20201217090600 +0000" channel="PT: RTP 2">
+    <title lang="pt">Vivi Vira Vento</title>
+  </programme>
+  <programme start="20201217090600 +0000" stop="20201217091800 +0000" channel="PT: RTP 2">
+    <title lang="pt">Lou!</title>
+  </programme>
+  <programme start="20201217091800 +0000" stop="20201217093300 +0000" channel="PT: RTP 2">
+    <title lang="pt">Lou!</title>
+  </programme>
+  <programme start="20201217093300 +0000" stop="20201217094500 +0000" channel="PT: RTP 2">
+    <title lang="pt">Danger Mouse</title>
+  </programme>
+  <programme start="20201217094500 +0000" stop="20201217095800 +0000" channel="PT: RTP 2">
+    <title lang="pt">Danger Mouse</title>
+  </programme>
+  <programme start="20201217095800 +0000" stop="20201217103000 +0000" channel="PT: RTP 2">
+    <title lang="pt">Paraíso (Magazine)</title>
+  </programme>
+  <programme start="20201217103000 +0000" stop="20201217120500 +0000" channel="PT: RTP 2">
+    <title lang="pt">Maria Teresa</title>
+  </programme>
+  <programme start="20201217120500 +0000" stop="20201217125800 +0000" channel="PT: RTP 2">
+    <title lang="pt">Histórias de Teerão</title>
+  </programme>
+  <programme start="20201217125800 +0000" stop="20201217130900 +0000" channel="PT: RTP 2">
+    <title lang="pt">Os Vizinhos Piratas</title>
+  </programme>
+  <programme start="20201217130900 +0000" stop="20201217133100 +0000" channel="PT: RTP 2">
+    <title lang="pt">Drama Total em Ação</title>
+  </programme>
+  <programme start="20201217133100 +0000" stop="20201217135300 +0000" channel="PT: RTP 2">
+    <title lang="pt">Drama Total em Ação</title>
+  </programme>
+  <programme start="20201217135300 +0000" stop="20201217140000 +0000" channel="PT: RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20201217140000 +0000" stop="20201217150000 +0000" channel="PT: RTP 2">
+    <title lang="pt">Sociedade Civil</title>
+  </programme>
+  <programme start="20201217150000 +0000" stop="20201217153400 +0000" channel="PT: RTP 2">
+    <title lang="pt">A Fé dos Homens</title>
+  </programme>
+  <programme start="20201217153400 +0000" stop="20201217160500 +0000" channel="PT: RTP 2">
+    <title lang="pt">Biosfera</title>
+  </programme>
+  <programme start="20201217160500 +0000" stop="20201217170000 +0000" channel="PT: RTP 2">
+    <title lang="pt">66 Metros: Quando a Água Sobe</title>
+  </programme>
+  <programme start="20201217170000 +0000" stop="20201217170800 +0000" channel="PT: RTP 2">
+    <title lang="pt">Lucas e Emília</title>
+  </programme>
+  <programme start="20201217170800 +0000" stop="20201217171600 +0000" channel="PT: RTP 2">
+    <title lang="pt">Lucas e Emília</title>
+  </programme>
+  <programme start="20201217171600 +0000" stop="20201217172800 +0000" channel="PT: RTP 2">
+    <title lang="pt">A Vaca, o Gato e o Oceano</title>
+  </programme>
+  <programme start="20201217172800 +0000" stop="20201217174000 +0000" channel="PT: RTP 2">
+    <title lang="pt">A Vaca, o Gato e o Oceano</title>
+  </programme>
+  <programme start="20201217174000 +0000" stop="20201217174500 +0000" channel="PT: RTP 2">
+    <title lang="pt">A Grande Descoberta</title>
+  </programme>
+  <programme start="20201217174500 +0000" stop="20201217175000 +0000" channel="PT: RTP 2">
+    <title lang="pt">Kiwi</title>
+  </programme>
+  <programme start="20201217175000 +0000" stop="20201217181200 +0000" channel="PT: RTP 2">
+    <title lang="pt">O Gato da Cartola</title>
+  </programme>
+  <programme start="20201217181200 +0000" stop="20201217182400 +0000" channel="PT: RTP 2">
+    <title lang="pt">Danger Mouse</title>
+  </programme>
+  <programme start="20201217182400 +0000" stop="20201217183500 +0000" channel="PT: RTP 2">
+    <title lang="pt">Danger Mouse</title>
+  </programme>
+  <programme start="20201217183500 +0000" stop="20201217185800 +0000" channel="PT: RTP 2">
+    <title lang="pt">Boss Baby</title>
+  </programme>
+  <programme start="20201217185800 +0000" stop="20201217192100 +0000" channel="PT: RTP 2">
+    <title lang="pt">Casa</title>
+  </programme>
+  <programme start="20201217192100 +0000" stop="20201217193200 +0000" channel="PT: RTP 2">
+    <title lang="pt">Os Vizinhos Piratas</title>
+  </programme>
+  <programme start="20201217193200 +0000" stop="20201217195400 +0000" channel="PT: RTP 2">
+    <title lang="pt">Vale dos Mumins</title>
+  </programme>
+  <programme start="20201217195400 +0000" stop="20201217200700 +0000" channel="PT: RTP 2">
+    <title lang="pt">O Vale Encantado</title>
+  </programme>
+  <programme start="20201217200700 +0000" stop="20201217202100 +0000" channel="PT: RTP 2">
+    <title lang="pt">O Vale Encantado</title>
+  </programme>
+  <programme start="20201217202100 +0000" stop="20201217203600 +0000" channel="PT: RTP 2">
+    <title lang="pt">Histórias à Solta</title>
+  </programme>
+  <programme start="20201217203600 +0000" stop="20201217204100 +0000" channel="PT: RTP 2">
+    <title lang="pt">Banda Zig Zag</title>
+  </programme>
+  <programme start="20201217204100 +0000" stop="20201217213000 +0000" channel="PT: RTP 2">
+    <title lang="pt">Segredos do Triângulo das Bermudas</title>
+  </programme>
+  <programme start="20201217213000 +0000" stop="20201217220500 +0000" channel="PT: RTP 2">
+    <title lang="pt">Jornal 2</title>
+  </programme>
+  <programme start="20201217220500 +0000" stop="20201217230700 +0000" channel="PT: RTP 2">
+    <title lang="pt">O Restaurante</title>
+  </programme>
+  <programme start="20201217230700 +0000" stop="20201218000300 +0000" channel="PT: RTP 2">
+    <title lang="pt">Arte da Memória</title>
+  </programme>
+  <programme start="20201217001000 +0000" stop="20201217011000 +0000" channel="PT: SIC">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20201217011000 +0000" stop="20201217030500 +0000" channel="PT: SIC">
+    <title lang="pt">Passadeira Vermelha</title>
+  </programme>
+  <programme start="20201217030500 +0000" stop="20201217035500 +0000" channel="PT: SIC">
+    <title lang="pt">Investigação Criminal: Los Angeles</title>
+  </programme>
+  <programme start="20201217035500 +0000" stop="20201217053500 +0000" channel="PT: SIC">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20201217053500 +0000" stop="20201217060000 +0000" channel="PT: SIC">
+    <title lang="pt">Camilo, o Presidente</title>
+  </programme>
+  <programme start="20201217060000 +0000" stop="20201217091500 +0000" channel="PT: SIC">
+    <title lang="pt">Edição da Manhã</title>
+  </programme>
+  <programme start="20201217091500 +0000" stop="20201217101500 +0000" channel="PT: SIC">
+    <title lang="pt">Alô Portugal</title>
+  </programme>
+  <programme start="20201217101500 +0000" stop="20201217130000 +0000" channel="PT: SIC">
+    <title lang="pt">Casa Feliz</title>
+  </programme>
+  <programme start="20201217130000 +0000" stop="20201217145500 +0000" channel="PT: SIC">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20201217145500 +0000" stop="20201217161500 +0000" channel="PT: SIC">
+    <title lang="pt">Rainha das Flores</title>
+  </programme>
+  <programme start="20201217161500 +0000" stop="20201217181500 +0000" channel="PT: SIC">
+    <title lang="pt">Júlia</title>
+  </programme>
+  <programme start="20201217181500 +0000" stop="20201217190500 +0000" channel="PT: SIC">
+    <title lang="pt">Viver a Vida</title>
+  </programme>
+  <programme start="20201217190500 +0000" stop="20201217195700 +0000" channel="PT: SIC">
+    <title lang="pt">Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20201217195700 +0000" stop="20201217214500 +0000" channel="PT: SIC">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20201217214500 +0000" stop="20201217221000 +0000" channel="PT: SIC">
+    <title lang="pt">Nazaré</title>
+  </programme>
+  <programme start="20201217221000 +0000" stop="20201217232500 +0000" channel="PT: SIC">
+    <title lang="pt">Terra Brava</title>
+  </programme>
+  <programme start="20201217232500 +0000" stop="20201218001000 +0000" channel="PT: SIC">
+    <title lang="pt">Golpe de Sorte</title>
+  </programme>
+  <programme start="20201217020000 +0000" stop="20201217023500 +0000" channel="PT: TVI">
+    <title lang="pt">Big Brother - A Revolução - Ligação à Casa</title>
+  </programme>
+  <programme start="20201217023500 +0000" stop="20201217043000 +0000" channel="PT: TVI">
+    <title lang="pt">A Outra</title>
+  </programme>
+  <programme start="20201217043000 +0000" stop="20201217060000 +0000" channel="PT: TVI">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20201217060000 +0000" stop="20201217063000 +0000" channel="PT: TVI">
+    <title lang="pt">Os Batanetes</title>
+  </programme>
+  <programme start="20201217063000 +0000" stop="20201217101500 +0000" channel="PT: TVI">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20201217101500 +0000" stop="20201217130000 +0000" channel="PT: TVI">
+    <title lang="pt">Você na TV!</title>
+  </programme>
+  <programme start="20201217130000 +0000" stop="20201217145500 +0000" channel="PT: TVI">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20201217145500 +0000" stop="20201217161500 +0000" channel="PT: TVI">
+    <title lang="pt">Destinos Cruzados</title>
+  </programme>
+  <programme start="20201217161500 +0000" stop="20201217180500 +0000" channel="PT: TVI">
+    <title lang="pt">A Tarde é Sua</title>
+  </programme>
+  <programme start="20201217180500 +0000" stop="20201217191000 +0000" channel="PT: TVI">
+    <title lang="pt">Big Brother - A Revolução - Última Hora</title>
+  </programme>
+  <programme start="20201217191000 +0000" stop="20201217195700 +0000" channel="PT: TVI">
+    <title lang="pt">Big Brother - A Revolução - Diário</title>
+  </programme>
+  <programme start="20201217195700 +0000" stop="20201217215500 +0000" channel="PT: TVI">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20201217215500 +0000" stop="20201217230000 +0000" channel="PT: TVI">
+    <title lang="pt">Bem Me Quer</title>
+  </programme>
+  <programme start="20201217230000 +0000" stop="20201218000000 +0000" channel="PT: TVI">
+    <title lang="pt">Amar Demais</title>
+  </programme>
+</tv>
